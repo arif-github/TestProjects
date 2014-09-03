@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_normal_layout">NormalLayout</string>
+    <string name="title_activity_use_custom1">UseCustom1</string>
+
+</resources>
